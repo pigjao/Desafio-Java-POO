@@ -22,7 +22,7 @@ public class Curso extends Conteudo {
         return "Curso{" +
                 "titulo='" + getTitulo() + '\'' +
                 ", descricao='" + getDescricao() + '\'' +
-                ", cargaHoraria=" + cargaHoraria + "XP: " + XP_PADRAO +
+                ", cargaHoraria=" + cargaHoraria + "h XP: " + XP_PADRAO +
                 '}';
     }
 
